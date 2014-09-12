@@ -29,3 +29,20 @@ img {
   display: block;
   width: 100%;
 }
+
+.billboard p {
+    background-color:black;
+    color: white;
+    padding: 1rem 5% 0 ;
+    margin: 0;
+    font-family:  serif;
+    font-style: italic;
+}
+
+.box {
+    display: inline-block;
+    overflow: hidden;
+    margin: 2px;
+    padding: 3px;
+    
+}
